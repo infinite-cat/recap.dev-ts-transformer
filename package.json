@@ -9,7 +9,7 @@
     "url": "https://github.com/infinite-cat/recap.dev-ts-transformer.git"
   },
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "transformer.js",
   "devDependencies": {
     "typescript": "^4.1.3"

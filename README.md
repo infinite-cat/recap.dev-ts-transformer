@@ -5,7 +5,7 @@
   <br />
 </p>
 
-[![npm downloads](https://img.shields.io/npm/dw/@recap.dev/ts-transformer)](https://www.npmjs.com/package/@recap.dev/ts-tranformer) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/infinite-cat/recap.dev-babel-plugin/blob/master/LICENSE) [![recap.dev Docker Hub](https://img.shields.io/badge/Docker%20Hub-recapdev%2Fserver-informational "recap.dev Docker Hub")](https://hub.docker.com/repository/docker/recapdev/server)
+[![npm downloads](https://img.shields.io/npm/dw/@recap.dev/ts-transformer)](https://www.npmjs.com/package/@recap.dev/ts-transformer) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/infinite-cat/recap.dev-ts-transformer/blob/master/LICENSE) [![recap.dev Docker Hub](https://img.shields.io/badge/Docker%20Hub-recapdev%2Fserver-informational "recap.dev Docker Hub")](https://hub.docker.com/repository/docker/recapdev/server)
 
 [Website](https://recap.dev) | [Documentation](https://recap.dev/docs/) | [Demo](https://demo.recap.dev/) | [Report a Bug](https://github.com/infinite-cat/recap.dev-server/issues/new)
 
