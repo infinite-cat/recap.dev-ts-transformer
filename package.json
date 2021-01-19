@@ -1,0 +1,23 @@
+{
+  "name": "@recap.dev/ts-transformer",
+  "description": "TypeScript transformer to set up function-level tracing for recap.dev, an open-source cloud observability and tracing solution for modern JavaScript backends.",
+  "keywords": ["tracing", "monitoring", "server monitoring", "observability", "dashboard"],
+  "homepage": "https://recap.dev",
+  "author": "Arseny Yankovski",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infinite-cat/recap.dev-ts-transformer.git"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "transformer.js",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "peerDependencies": {
+    "typescript": "*"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
